@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <body className='bg-slate-900 text-slate-100'>
         <SideBar />
-        <div className='ml-80 relative h-screen'>
+        <div className='lg:ml-80  relative h-screen'>
           <Header />
           <HeroPattern />
           <div className='py-24  max-w-4xl px-8 mx-auto'>
