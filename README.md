@@ -24,8 +24,6 @@ npm run dev
 # or
 yarn dev
 
-# mobile
-npx expo start
 ```
 
 <!-- ## PREVIEW
